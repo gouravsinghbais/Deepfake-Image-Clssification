@@ -41,6 +41,6 @@ https://drive.google.com/file/d/1smby8vBB0g8bNtUsQ10OdjF-4FK9k_GS/view
 
 - https://www.researchgate.net/publication/327905310_Forensics_Face_Detection_From_GANs_Using_Convolutional_Neural_Network?enrichId=rgreq-fa3b4b45646d1695236abfc1b3a44062-XXX&enrichSource=Y292ZXJQYWdlOzMyNzkwNTMxMDtBUzo2NzUzNzI5NjYzNTkwNTZAMTUzODAzMjg3MTc5MA==&el=1_x_3&_esc=publicationCoverPdf
 
-
-
+## You can read my blog on Fake Face Classification: **
+https://medium.com/analytics-vidhya/fake-face-image-classification-5a4151db9b8d
 
