@@ -24,7 +24,7 @@ https://drive.google.com/open?id=1KujeIcVzoRWHgBlO-BzpClxhujUbeDmV
 **Dataset:**
 
 **Dataset for training the model are available here:**
-https://drive.google.com/file/d/1smby8vBB0g8bNtUsQ10OdjF-4FK9k_GS/view
+https://medium.com/@gouravbais08/deepfake-image-classification-fdc06cd4a6f5
 
 **Instructions to train the model:**
 
