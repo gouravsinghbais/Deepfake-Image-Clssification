@@ -44,4 +44,6 @@ https://drive.google.com/file/d/1smby8vBB0g8bNtUsQ10OdjF-4FK9k_GS/view
 ## You can read my blog on Fake Face Classification:
 https://medium.com/@gouravbais08/fake-face-image-classification-91a6225e708d
 
-<script src="https://gist.github.com/gouravsinghbais/656938bc2ae8818c10cc39982405fecd.js"></script>
+<div>
+  <script src="https://gist.github.com/gouravsinghbais/656938bc2ae8818c10cc39982405fecd.js"></script>
+</div>
