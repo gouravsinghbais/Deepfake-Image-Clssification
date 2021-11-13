@@ -45,5 +45,6 @@ https://drive.google.com/file/d/1smby8vBB0g8bNtUsQ10OdjF-4FK9k_GS/view
 https://medium.com/@gouravbais08/fake-face-image-classification-91a6225e708d
 
 <div>
-  <script src="https://gist.github.com/gouravsinghbais/656938bc2ae8818c10cc39982405fecd.js"></script>
+  <h1>Your Code Embed</h1>
+  <script src="https://gist.github.com/username/gist-id.js"></script>
 </div>
